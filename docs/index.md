@@ -1,8 +1,8 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: 编程疯人院
-tagline: 疯人院里住的从来都不是病人,而是天才!大家好，我是院长，欢迎来到我的博客。
+heroText: 程序员伍六一
+tagline: 我的工作间经验范畴偏运维开发、DevOps、运维监控、云原生容器，使用的语言栈主要为 Python/Go。如果你有这些领域方面的问题，可以关注我的博客和公众号【码农行者】，共同交流。
 # actionText: 立刻进入 →
 # actionLink: /web/
 # bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
