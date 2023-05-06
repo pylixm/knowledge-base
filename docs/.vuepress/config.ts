@@ -84,13 +84,17 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         link: '/ops/',
       },
       {
+        text: '垃圾佬的快乐',
+        link: '/hardware/',
+      },
+      {
         text: '更多',
         link: '/more/',
         items: [
-          { text: '数据库', link: '/pages/a02995/' },
-          { text: '机器学习', link: '/pages/b5d8b5/' },
-          { text: '杂谈', link: '/pages/b7989a/' },
-          { text: '面试', link: '/pages/aea6571b7a8bae86/' },
+          { text: '数据库', link: '/database/' },
+          { text: '机器学习', link: '/ml/' },
+          { text: '杂谈', link: '/talk/' },
+          { text: '面试', link: '/interview/' },
         ],
       },
       { text: '关于', link: '/about/' },
