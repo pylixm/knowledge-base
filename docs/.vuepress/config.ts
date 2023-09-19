@@ -69,11 +69,11 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       {
         text: '中间件',
         link: '/middleware/',
-        // items: [
-        //   { text: 'Git', link: '/pages/b0b9c8/' },
-        //   { text: 'Mongodb', link: '/pages/26cf5c/' },
-        //   { text: 'Git', link: '/pages/b0b9c8/' },
-        // ],
+        items: [
+          { text: 'ATS', link: '/pages/607c5a/' },
+          { text: 'Mongodb', link: '/pages/26cf5c/' },
+          { text: 'Git', link: '/pages/b0b9c8/' },
+        ],
       },
       {
         text: '云原生',
